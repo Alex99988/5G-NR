@@ -95,6 +95,7 @@ void schedule_ssb(frame_t frame, sub_frame_t slot,
 void schedule_nr_mib(module_id_t module_idP, frame_t frameP, sub_frame_t slotP) {
   gNB_MAC_INST *gNB = RC.nrmac[module_idP];
   NR_COMMON_channels_t *cc;
+  //不该
   nfapi_nr_dl_tti_request_t      *dl_tti_request;
   nfapi_nr_dl_tti_request_body_t *dl_req;
   NR_MIB_t *mib = RC.nrrrc[module_idP]->carrier.mib.message.choice.mib;
