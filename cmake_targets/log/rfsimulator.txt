@@ -1,0 +1,14 @@
+[  0%] Built target generate_T
+Scanning dependencies of target SIMU_COMMON
+[100%] Building C object CMakeFiles/SIMU_COMMON.dir/openair1/SIMULATION/TOOLS/phase_noise.c.o
+[100%] Building C object CMakeFiles/SIMU_COMMON.dir/openair1/SIMULATION/TOOLS/random_channel.c.o
+[100%] Building C object CMakeFiles/SIMU_COMMON.dir/openair1/SIMULATION/TOOLS/rangen_double.c.o
+[100%] Linking C static library libSIMU_COMMON.a
+[100%] Built target SIMU_COMMON
+Scanning dependencies of target rfsimulator
+[100%] Building C object CMakeFiles/rfsimulator.dir/radio/rfsimulator/simulator.c.o
+[100%] Building C object CMakeFiles/rfsimulator.dir/radio/rfsimulator/new_channel_sim.c.o
+[100%] Building C object CMakeFiles/rfsimulator.dir/radio/rfsimulator/apply_channelmod.c.o
+[100%] Building C object CMakeFiles/rfsimulator.dir/openair1/PHY/TOOLS/signal_energy.c.o
+[100%] Linking C shared module librfsimulator.so
+[100%] Built target rfsimulator

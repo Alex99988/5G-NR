@@ -1,0 +1,3 @@
+# .gitignore
+cmake_targets/ran_build
+data/

@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "*.json": "jsonc",
+        "nr-uesoftmodem.h": "c",
+        "nr_transport_proto_ue.h": "c",
+        "impl_defs_top.h": "c",
+        "phy_init.h": "c",
+        "my_tool.h": "c",
+        "tools_defs.h": "c",
+        "nr_if_module.h": "c",
+        "pucch_uci_ue_nr.h": "c",
+        "phy_frame_config_nr.h": "c",
+        "refsig_defs_ue.h": "c"
+    }
+}

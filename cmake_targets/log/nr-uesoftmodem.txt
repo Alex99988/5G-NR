@@ -1,0 +1,415 @@
+[  0%] Built target CONFIG_LIB
+[  0%] Built target cnProc_gen_avx512
+[  0%] Built target generate_T
+[  0%] Built target cnProc_gen_avx2
+[  0%] Built target bnProc_gen_avx2
+[  0%] Built target rrc_flag
+[  0%] Built target bnProc_gen_avx512
+[  0%] Built target dfts
+[  0%] Built target nr_rrc_flag
+[  0%] Built target SECU_CN
+[  0%] Built target SECU_OSA
+Scanning dependencies of target MISC_NFAPI_NR_LIB
+[  0%] Built target PHY_NR_COMMON
+[  0%] Building C object CMakeFiles/MISC_NFAPI_NR_LIB.dir/openair1/SCHED/nfapi_nr_dummy.c.o
+[  0%] Built target HASHTABLE
+[  0%] Built target MAC_NR_COMMON
+[  0%] Built target NFAPI_PNF_LIB
+[  0%] Built target UTIL
+[  0%] Linking C static library libMISC_NFAPI_NR_LIB.a
+[  0%] Built target SCHED_RU_LIB
+[  0%] Built target NFAPI_COMMON_LIB
+[  0%] Built target NFAPI_LIB
+[  0%] Built target ldpc_orig
+[  0%] Built target NFAPI_USER_LIB
+[  0%] Built target ldpc_optim
+[  0%] Built target ldpc_optim8seg
+[  0%] Built target ldpc
+[  0%] Built target PHY_COMMON
+[  0%] Built target ITTI
+[  0%] Built target MISC_NFAPI_NR_LIB
+Scanning dependencies of target SCHED_NR_UE_LIB
+Scanning dependencies of target LIB_5GNAS_GNB
+[ 75%] Built target NR_RRC_LIB
+[ 75%] Building C object CMakeFiles/SCHED_NR_UE_LIB.dir/openair1/SCHED_NR_UE/phy_procedures_nr_ue.c.o
+[ 75%] Building C object CMakeFiles/SCHED_NR_UE_LIB.dir/openair1/SCHED_NR/phy_procedures_nr_common.c.o
+[ 75%] Building C object CMakeFiles/LIB_5GNAS_GNB.dir/openair3/NAS/COMMON/nr_common.c.o
+[ 75%] Building C object CMakeFiles/LIB_5GNAS_GNB.dir/openair3/NAS/gNB/network_process_nas.c.o
+Scanning dependencies of target L2_UE_LTE_NR
+Scanning dependencies of target LIB_NAS_SIMUE
+[ 75%] Building C object CMakeFiles/SCHED_NR_UE_LIB.dir/openair1/SCHED_NR_UE/fapi_nr_ue_l1.c.o
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/RRC/LTE/rrc_UE.c.o
+Scanning dependencies of target PHY_NR_UE
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/nas_itti_messaging.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/INIT/nr_parms.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/nas_network.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/MODULATION/nr_modulation.c.o
+Scanning dependencies of target NR_L2_UE
+[ 75%] Building C object CMakeFiles/LIB_5GNAS_GNB.dir/openair3/NAS/NR_UE/ue_process_nas.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/nas_parser.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/nas_proc.c.o
+[ 75%] Building C object CMakeFiles/LIB_5GNAS_GNB.dir/openair3/UICC/usim_interface.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/nas_user.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/MODULATION/slot_fep_nr.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/pss_nr.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/NR_UE/nr_nas_msg_sim.c.o
+[ 75%] Building C object CMakeFiles/SCHED_NR_UE_LIB.dir/openair1/SCHED_NR_UE/phy_frame_config_nr_ue.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/sss_nr.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/asn1_utils.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_entity.c.o
+[ 75%] Building C object CMakeFiles/SCHED_NR_UE_LIB.dir/openair1/SCHED_NR_UE/harq_nr.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_entity_am.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_entity_tm.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/cic_filter_nr.c.o
+[ 75%] Building C object CMakeFiles/SCHED_NR_UE_LIB.dir/openair1/SCHED_NR_UE/pucch_uci_ue_nr.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_initial_sync.c.o
+[ 75%] Linking C static library libLIB_5GNAS_GNB.a
+[ 75%] Built target LIB_5GNAS_GNB
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_ue_rf_helpers.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_entity_um.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/API/NETWORK/as_message.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_oai_api.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_pbch.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_dlsch_demodulation.c.o
+[ 75%] Linking C static library libSCHED_NR_UE_LIB.a
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/API/NETWORK/nas_message.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_ulsch_coding.c.o
+[ 75%] Built target SCHED_NR_UE_LIB
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/RRC/LTE/rrc_common.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_dlsch_decoding.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_dlsch_llr_computation.c.o
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/RRC/LTE/L2_interface_common.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_TRANSPORT/nr_tbs_tools.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_pdu.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_TRANSPORT/nr_prach_common.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_sdu.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_TRANSPORT/nr_sch_dmrs.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_prach.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/API/NETWORK/network_api.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/dci_nr.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USER/at_command.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/pucch_nr.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/csi_rx.c.o
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/PHY_INTERFACE/phy_stub_UE.c.o
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/RRC/LTE/L2_interface_ue.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_TRANSPORT/nr_uci_tools_common.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_TRANSPORT/nr_ulsch_ue.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USER/at_error.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_REFSIG/ul_ref_seq_nr.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USER/at_response.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_REFSIG/nr_dmrs_rx.c.o
+[ 75%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_rlc/nr_rlc_ue_manager.c.o
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/PHY_INTERFACE/queue_t.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USER/user_api.c.o
+[ 75%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/LAYER2/MAC/main_ue.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_REFSIG/dmrs_nr.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USER/user_indication.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_REFSIG/ptrs_nr.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USIM/aka_functions.c.o
+[ 75%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_REFSIG/nr_gold_ue.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/API/USIM/usim_api.c.o
+[ 75%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AttachAccept.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AttachComplete.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AttachReject.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_oai_api.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_REFSIG/nr_gen_mod_table.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_ue_manager.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_ESTIMATION/filt16a_32.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AttachRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AuthenticationFailure.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AuthenticationReject.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AuthenticationRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/AuthenticationResponse.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_entity.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_sdu.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/CsServiceNotification.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_timer_thread.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_security_nea2.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_ESTIMATION/nr_dl_channel_estimation.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/DetachAccept.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/DetachRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/DownlinkNasTransport.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/EmmInformation.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/emm_msg.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/EmmStatus.c.o
+[ 80%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/LAYER2/MAC/ue_procedures.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/ExtendedServiceRequest.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_ESTIMATION/nr_adjust_synch_ue.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/GutiReallocationCommand.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_integrity_nia2.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/GutiReallocationComplete.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/nr_pdcp_integrity_nia1.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/IdentityRequest.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/nr_pdcp/asn1_utils.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/UTIL/OSA/osa_stream_eia.c.o
+[ 80%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/LAYER2/MAC/ra_procedures.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_ESTIMATION/nr_ue_measurements.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/NR_UE_ESTIMATION/nr_adjust_gain.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/IdentityResponse.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/SecurityModeCommand.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/SecurityModeComplete.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/SecurityModeReject.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/file_output.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/ServiceReject.c.o
+[ 80%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/LAYER2/MAC/l1_helpers.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/cadd_vv.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/ServiceRequest.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/log2_approx.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/cmult_sv.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/cmult_vv.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateAccept.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateComplete.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/cdot_prod.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateReject.c.o
+[ 80%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/LAYER2/MAC/rar_tools_ue.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/UplinkNasTransport.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextAccept.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/signal_energy.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/UTIL/OSA/osa_snow3g.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/UTIL/OSA/osa_rijndael.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextReject.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/SDAP/nr_sdap/nr_sdap.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextAccept.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextReject.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextRequest.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/dB_routines.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/BearerResourceAllocationReject.c.o
+[ 80%] Building C object CMakeFiles/L2_UE_LTE_NR.dir/openair2/LAYER2/MAC/config_ue.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/sqrt.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/TOOLS/lut.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/BearerResourceModificationReject.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/BearerResourceAllocationRequest.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/INIT/nr_init_ue.c.o
+[ 80%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nr_polar_init.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/SDAP/nr_sdap/nr_sdap_entity.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/BearerResourceModificationRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/DeactivateEpsBearerContextAccept.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/DeactivateEpsBearerContextRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/EsmInformationRequest.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/EsmInformationResponse.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/esm_msg.c.o
+[ 80%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/RRC/NR_UE/L2_interface_ue.c.o
+[ 80%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/EsmStatus.c.o
+[ 85%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/RRC/NR_UE/main_ue.c.o
+[ 85%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_bitwise_operations.c.o
+[ 85%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextAccept.c.o
+[ 85%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextReject.c.o
+[ 85%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_crc_byte.c.o
+[ 85%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/RRC/NR/nr_rrc_config.c.o
+[ 85%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/RRC/NR_UE/rrc_UE.c.o
+[ 85%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_crc.c.o
+[ 85%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextRequest.c.o
+[ 85%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_decoder.c.o
+[ 85%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/PdnConnectivityReject.c.o
+[ 85%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/RRC/NR_UE/rrc_nsa.c.o
+[ 85%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/PdnConnectivityRequest.c.o
+[ 85%] Linking C static library libL2_UE_LTE_NR.a
+[ 85%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/PdnDisconnectReject.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_decoding_tools.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_encoder.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/PdnDisconnectRequest.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AdditionalUpdateResult.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AccessPointName.c.o
+[ 90%] Built target L2_UE_LTE_NR
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AdditionalUpdateType.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/NR_UE_PHY_INTERFACE/NR_IF_Module.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_interleaving_pattern.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ApnAggregateMaximumBitRate.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AuthenticationFailureParameter.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/config_ue.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/NR_UE_PHY_INTERFACE/NR_Packet_Drop.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/mac_vars.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AuthenticationParameterAutn.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AuthenticationParameterRand.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/AuthenticationResponseParameter.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/main_ue_nr.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_kernal_operation.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/CipheringKeySequenceNumber.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/Cli.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/nr_ue_procedures.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_kronecker_power_matrices.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/CsfbResponse.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/DaylightSavingTime.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/DetachType.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/DrxParameter.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EmergencyNumberList.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EmmCause.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsAttachResult.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/nr_ue_scheduler.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsAttachType.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsBearerContextStatus.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsMobileIdentity.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsBearerIdentity.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/nr_ue_dci_configuration.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsNetworkFeatureSupport.c.o
+[ 90%] Building C object CMakeFiles/NR_L2_UE.dir/openair2/LAYER2/NR_MAC_UE/nr_ra_procedures.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsQualityOfService.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_matrix_and_array.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsUpdateResult.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EpsUpdateType.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_procedures.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrPolar_tools/nr_polar_sequence_pattern.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EsmCause.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EsmInformationTransferFlag.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrSmallBlock/encodeSmallBlock.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrSmallBlock/decodeSmallBlock.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/GprsTimer.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/EsmMessageContainer.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/CODING/nrLDPC_load.c.o
+[ 90%] Building C object CMakeFiles/PHY_NR_UE.dir/openair1/PHY/LTE_UE_TRANSPORT/dlsch_llr_computation_avx2.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/GutiType.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/IdentityType2.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ImeisvRequest.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/KsiAndSequenceNumber.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/LcsClientIdentity.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/LcsIndicator.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/LinkedEpsBearerIdentity.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/LlcServiceAccessPointIdentifier.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/LocationAreaIdentification.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/MessageType.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/MobileIdentity.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/MobileStationClassmark2.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/MobileStationClassmark3.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/MsNetworkCapability.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/MsNetworkFeatureSupport.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/NasKeySetIdentifier.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/NasMessageContainer.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/NasRequestType.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/NasSecurityAlgorithms.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/NetworkName.c.o
+[ 90%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/PacketFlowIdentifier.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/Nonce.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/PagingIdentity.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/PdnType.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/PdnAddress.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/PlmnList.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ProcedureTransactionIdentity.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ProtocolConfigurationOptions.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ProtocolDiscriminator.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/QualityOfService.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/PTmsiSignature.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/SecurityHeaderType.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/RadioPriority.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ShortMac.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ServiceType.c.o
+[ 95%] Linking C static library libNR_L2_UE.a
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/SupportedCodecList.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/SsCode.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TmsiStatus.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TimeZoneAndTime.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TimeZone.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TrackingAreaIdentity.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TrafficFlowAggregateDescription.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TrackingAreaIdentityList.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TrafficFlowTemplate.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/TransactionIdentifier.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/UeNetworkCapability.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/UeRadioCapabilityInformationUpdateNeeded.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/UeSecurityCapability.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/VoiceDomainPreferenceAndUeUsageSetting.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/device.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/memory.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/nas_timer.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/socket.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/stty.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/TLVDecoder.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/TLVEncoder.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/Attach.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/UTIL/OctetString.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/Authentication.c.o
+[ 95%] Built target NR_L2_UE
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/Detach.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/emm_main.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/EmmStatusHdl.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/Identification.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/IdleMode.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/LowerLayer.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SecurityModeControl.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/ServiceRequestHdl.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/TrackingAreaUpdate.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_as.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredAttemptingToAttach.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredAttachNeeded.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregistered.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredInitiated.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredLimitedService.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNoCellAvailable.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNoImsi.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNormalService.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmDeregisteredPlmnSearch.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_esm.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_fsm.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmNull.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_recv.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_reg.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredAttemptingToUpdate.c.o
+[ 95%] Linking C static library libPHY_NR_UE.a
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegistered.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredImsiDetachInitiated.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredInitiated.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredLimitedService.c.o
+[ 95%] Built target PHY_NR_UE
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredNormalService.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredNoCellAvailable.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredPlmnSearch.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmRegisteredUpdateNeeded.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_sap.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/emm_send.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmTrackingAreaUpdatingInitiated.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/EMM/SAP/EmmServiceRequestInitiated.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/DedicatedEpsBearerContextActivation.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/DefaultEpsBearerContextActivation.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/EpsBearerContextDeactivation.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/esm_ebr.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/esm_ebr_context.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/esm_ip.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/esm_pt.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/EsmStatusHdl.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/esm_main.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/PdnConnectivity.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/PdnDisconnect.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/SAP/esm_recv.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/SAP/esm_send.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/UE/ESM/SAP/esm_sap.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/RegistrationRequest.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/RegistrationAccept.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/FGSIdentityResponse.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/FGSAuthenticationResponse.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/FGSNASSecurityModeComplete.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/RegistrationComplete.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/EMM/MSG/FGSUplinkNasTransport.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/PduSessionEstablishRequest.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/ESM/MSG/PduSessionEstablishmentAccept.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/ExtendedProtocolDiscriminator.c.o
+[ 95%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/SpareHalfOctet.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/FGSMobileIdentity.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/FGSRegistrationType.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/FGSRegistrationResult.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/FGMMCapability.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/NrUESecurityCapability.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/SORTransparentContainer.c.o
+[100%] Building C object CMakeFiles/LIB_NAS_SIMUE.dir/openair3/NAS/COMMON/IES/FGCNasMessageContainer.c.o
+[100%] Linking C static library libLIB_NAS_SIMUE.a
+[100%] Built target LIB_NAS_SIMUE
+Scanning dependencies of target nr-uesoftmodem
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/executables/nr-uesoftmodem.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/executables/nr-ue.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/radio/COMMON/common_lib.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair1/SIMULATION/TOOLS/taus.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/executables/softmodem-common.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/radio/COMMON/record_player.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair2/RRC/NAS/nas_config.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair2/LAYER2/NR_MAC_COMMON/nr_mac_common.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair2/RRC/NAS/rb_config.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair1/SIMULATION/ETH_TRANSPORT/netlink_init.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair3/NAS/UE/nas_ue_task.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/common/utils/nr/nr_common.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/executables/my_tool.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/openair1/PHY/TOOLS/phy_scope_interface.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/common/utils/T/T.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/common/utils/T/local_tracer.c.o
+[100%] Building C object CMakeFiles/nr-uesoftmodem.dir/common/utils/load_module_shlib.c.o
+[100%] Linking CXX executable nr-uesoftmodem
+[100%] Built target nr-uesoftmodem
