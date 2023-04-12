@@ -1,31 +1,62 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Launch",
+            "name": "(gdb) 启动",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/cmake_targets/ran_build/build/lte-softmodem",
+            // "program": "${workspaceFolder}/cmake_targets/ran_build/build/nr-uesoftmodem",
+            // "args": [
+            //     //"RFSIMULATOR=121.248.54.181",
+            //     "-r",
+            //     "106",
+            //     "--numerology",
+            //     "1",
+            //     "--band",
+            //     "78",
+            //     "-C",
+            //     "3619200000",
+            //     "--ssb",
+            //     "516",
+            //     "--sa",
+            //     "-O",
+            //     "${workspaceFolder}//targets/PROJECTS/GENERIC-NR-5GC/CONF/ue.conf",
+            //     "--rfsim",
+            // ],
+            "program": "${workspaceFolder}/cmake_targets/ran_build/build/nr-softmodem",
             "args": [
-                "-O", "../ci-scripts/conf_files/rcc.band7.tm1.nfapi.conf",
-                "--noS1"
+                "RFSIMULATOR=server",
+                "-O",
+                "${workspaceFolder}//targets/PROJECTS/GENERIC-NR-5GC/CONF/gnb.sa.band78.fr1.106PRB.usrpb210.conf",
+                "--sa",
+                "--rfsim",
+                "--gNBs.[0].min_rxtxtime",
+                "6"
             ],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/cmake_targets",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
-            "MIMode": "gdb",
             "miDebuggerPath": "${workspaceFolder}/cmake_targets/sudo-gdb",
+            "MIMode": "gdb",
             "setupCommands": [
                 {
-                    "description": "Enable pretty-printing for gdb",
+                    "description": "为 gdb 启用整齐打印",
                     "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "将反汇编风格设置为 Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
                     "ignoreFailures": true
                 }
             ]
+        },
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
